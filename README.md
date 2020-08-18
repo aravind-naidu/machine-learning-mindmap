@@ -1,4 +1,5 @@
 # Machine Learning Mindmap / Cheatsheet
+## I found this wonderful mindmap from Daniel Formoso. 
 A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 
 ## Overview
@@ -65,13 +66,3 @@ I'm planning to build a more complete list of references in the future. For now,
 - Multiple Wikipedia articles.
 ~~~
 
-
-## About Me
-Twitter:
-> https://twitter.com/danielmartinezf
-
-Linkedin:
->https://www.linkedin.com/in/danielmartinezformoso/
-
-Email:
-> daniel.martinez.formoso@gmail.com
